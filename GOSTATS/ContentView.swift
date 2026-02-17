@@ -15,7 +15,6 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
         .padding()
     }
 }
